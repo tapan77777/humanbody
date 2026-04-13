@@ -55,7 +55,7 @@ export default function Header() {
                 WebkitTextFillColor: 'transparent',
               }}
             >
-              BodyWise
+              Soubhik
             </h1>
             <p
               style={{
